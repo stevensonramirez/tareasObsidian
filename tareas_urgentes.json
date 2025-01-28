@@ -1,17 +1,20 @@
 [
   {
-    "task": "#todo ⏫ TODOS - Plan de Davivienda con Sandra"
+    "task": "TODOS - Plan de Davivienda con Sandra"
   },
   {
-    "task": "#todo ⏫ NUEVA TAREA 3"
+    "task": "NUEVA TAREA 3"
   },
   {
-    "task": "#todo ⏫ NUEVA TAREA 4"
+    "task": "NUEVA TAREA 4"
   },
   {
-    "task": "#todo ⏫ NUEVA TAREA 5"
+    "task": "NUEVA TAREA 5"
   },
   {
-    "task": "#todo ⏫ SURA - Hacer DQL para calcular precio de consumo basándome en el dash existente y que deje filtrar por openpipeline."
+    "task": "NUEVA TAREA 6"
+  },
+  {
+    "task": "SURA - Hacer DQL para calcular precio de consumo basándome en el dash existente y que deje filtrar por openpipeline."
   }
 ]
