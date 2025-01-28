@@ -9,6 +9,6 @@
     "task": "SURA - Hacer DQL para calcular precio de consumo basándome en el dash existente y que deje filtrar por openpipeline."
   },
   {
-    "task": "Hacer simulacro de la creaciónd"
+    "task": "Hacer simulacro de la creación de la extensión Custom de BD en un tenant"
   }
 ]
