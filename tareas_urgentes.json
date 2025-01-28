@@ -1,5 +1,8 @@
 [
   {
+    "task": "BANCOLOMBIA, Enviar la sábana de servidores"
+  },
+  {
     "task": "TODOS - Plan de Davivienda con Sandra"
   },
   {
@@ -13,6 +16,9 @@
   },
   {
     "task": "NUEVA TAREA 6"
+  },
+  {
+    "task": "Tarea No 7"
   },
   {
     "task": "SURA - Hacer DQL para calcular precio de consumo basándome en el dash existente y que deje filtrar por openpipeline."
