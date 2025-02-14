@@ -1,5 +1,11 @@
 [
   {
+    "task": "CREDIBANCO -  Hacer el resumen del trabajo con de la migración de los Dashboards"
+  },
+  {
+    "task": "BANCOLOMBIA - Hablar con Jose Romero de métricas de Istio"
+  },
+  {
     "task": "SURA - Hacer DQL para calcular precio de consumo basándome en el dash existente y que deje filtrar por openpipeline."
   },
   {
